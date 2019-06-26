@@ -5,3 +5,11 @@ html {
 *, *:after, *:before {
     box-sizing: inherit;
 }
+
+body {
+    background: #2C2141;
+}
+
+.card {
+    background: #F8F8F8;
+}
